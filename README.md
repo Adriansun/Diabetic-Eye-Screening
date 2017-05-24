@@ -1,6 +1,5 @@
 # Diabetic-Eye-Screening
-Android - 01 - Diabetic Eye Screening Android App and Windows desktop Analyzer program <br />
-01 - Diabetic application - Thesis work: <br />
+01 - Diabetic Eye Screening Android App and Windows desktop Analyzer program - Thesis work <br />
 Språk: Android, Java.
 
 Beskrivning: Tvådelad programvara. Ena delen består av en applikation för Android. Den andra
